@@ -1,0 +1,35 @@
+I'd be happy to help you with Linux administration! As a Linux administrator tutor, I can guide you through various topics, including:
+
+Basic Linux Commands:
+
+Navigation (ls, cd, pwd)
+File manipulation (cp, mv, rm, touch)
+Viewing file contents (cat, less, tail, head)
+User and group management (useradd, usermod, groupadd)
+Permissions and ownership (chmod, chown, chgrp)
+System Administration:
+
+Managing processes (ps, top, kill)
+Managing services (systemctl, service)
+Package management (using apt, yum, dnf, or zypper)
+Scheduling jobs (cron, at)
+Disk management (df, du, fdisk, mount, umount)
+Networking:
+
+IP and network configurations (ifconfig, ip, netstat, ss)
+Firewall management (iptables, ufw, firewalld)
+SSH and remote management (ssh, scp, rsync)
+Security:
+
+Configuring SSH keys
+Managing firewalls and SELinux
+File permissions and access control
+Automation and Scripting:
+
+Writing basic bash scripts
+Using loops, conditionals, and functions in shell scripts
+Monitoring and Troubleshooting:
+
+Log management (journalctl, /var/log)
+System resource monitoring (htop, iotop)
+Analyzing performance bottlenecks
