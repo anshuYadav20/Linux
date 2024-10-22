@@ -16,7 +16,7 @@ Scheduling jobs (cron, at)
 Disk management (df, du, fdisk, mount, umount)
 Networking:
 
-IP and network configurations (ifconfig, ip, netstat, ss)
+IP and network configurations (ifconfig, ip, netstat, ss)....
 Firewall management (iptables, ufw, firewalld)
 SSH and remote management (ssh, scp, rsync)
 Security:
